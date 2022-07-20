@@ -3,5 +3,5 @@
 ## How to use -
 ### In your Kali Linux terminal, use the following
 
-chmod +x startspider.sh then  
+chmod +x startspider.sh  
 ./startspider.sh 127.0.0.1:5001
